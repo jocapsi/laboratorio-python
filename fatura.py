@@ -1,0 +1,6 @@
+nomecliente = input ("Digite o nome do cliente")
+vencimento = input ("Digite o dia de vencimento")
+mesvencimento = input ("Digite o mês de vencimento")
+valorfatura = input ("Digite o valor da fatura")
+print ("Olá", nomecliente)
+print ("A sua fatura com vencimento em", vencimento, mesvencimento, "no valor de", valorfatura, "está fechada.")
